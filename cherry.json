@@ -23,7 +23,7 @@
       "code" : "c03",
       "title" : "善峯寺",
       "png_name" : "c03.png",
-      "png" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/c03.png",
+      "png_url" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/c03.png",
       "state" : "2"
     }
   ,
@@ -31,7 +31,7 @@
       "code" : "c04",
       "title" : "龍山寺",
       "png_name" : "c04.png",
-      "png" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/c04.png",
+      "png_url" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/c04.png",
       "state" : "1"
     }
   ]
