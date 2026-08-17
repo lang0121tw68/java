@@ -1,0 +1,37 @@
+{
+  "title" : "maple red",
+  "url" : "https://onedrive.live.com/",
+  "date" : "2026/03/23",
+  "list" : [
+    {
+      "code" : "m01",
+      "title" : "南禪寺",
+      "png_name" : "m01.png",
+      "png_url" : "https://1drv.ms/i/c/6c7ec2b880a98889/IQC8lDLccEZAS5v0KhZr3aOZAb_S3ggHO3wr_p2b4oulpOs?e=hduSHm",
+      "state" : "1"
+    },
+    {
+      "code" : "m02",
+      "title" : "清水寺",
+      "png_name" : "m02.png",
+      "png_url" : "https://1drv.ms/i/c/6c7ec2b880a98889/IQDswzGiG97kS7lWc8VCbRLWAS0-OXc6OVQ5YJ4ChLCFxRQ?e=V9Y9mA",
+      "state" : "2"
+    }
+  ,
+    {
+      "code" : "m03",
+      "title" : "善峯寺",
+      "png_name" : "m03.png",
+      "png_url" : "https://1drv.ms/i/c/6c7ec2b880a98889/IQCXOe0eofXPSbDmT4GiEoHjAV17mIfkgIuAekOb2RZ5Y0c?e=QG8sXU",
+      "state" : "2"
+    }
+  ,
+    {
+      "code" : "m04",
+      "title" : "龍山寺",
+      "png_name" : "m04.png",
+      "png_url" : "https://1drv.ms/i/c/6c7ec2b880a98889/IQAHDlXbg0p6S5PIRiZC_SY2AQCTOgnbV6bfEUbPvER2BBg?e=ppNzD5",
+      "state" : "1"
+    }
+  ]
+}
