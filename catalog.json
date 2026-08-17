@@ -7,7 +7,7 @@
     {
       "code" : "Cherry",
       "title" : "櫻花",
-      "png_name" : "cherry_icon.png",
+      "png_name" : "icon_cherry.png",
       "png_url" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/icon_cherry.png",
       "json_url" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/cherry.json"
 
@@ -15,7 +15,7 @@
     {
       "code" : "MapleRed",
       "title" : "楓紅",
-      "png_name" : "maple_red_icon.png",
+      "png_name" : "icon_maple_red.png",
       "png_url" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/icon_maple_red.png",
       "json_url" : "https://raw.githubusercontent.com/lang0121tw68/java/refs/heads/main/maplered.json"
     }
